@@ -1,2 +1,2 @@
 # Deluxe File Sync
-File backup tool
+Simple File Syncing tool
